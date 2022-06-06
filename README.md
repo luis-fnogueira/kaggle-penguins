@@ -36,6 +36,9 @@ In proportion:
 
 ![image](https://user-images.githubusercontent.com/82065199/172255511-d0624524-6841-413e-bbcf-ff1d1656ddef.png)
 
+We can see a slight relation between these two variables, but it's not linear.
+
+
 ### Body mass according to sex
 
 ![image](https://user-images.githubusercontent.com/82065199/172255589-9dd6d86c-a165-49ca-9ced-a17dad182659.png)
