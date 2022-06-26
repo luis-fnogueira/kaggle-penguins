@@ -32,16 +32,9 @@ In proportion:
 
 ![Captura de tela de 2022-06-06 18-51-00](https://user-images.githubusercontent.com/82065199/172255431-ff032d3c-cfdb-4926-9e72-e98490c19771.png)
 
-### Does the culmen length grows according to the body mass?
-
-![image](https://user-images.githubusercontent.com/82065199/172255511-d0624524-6841-413e-bbcf-ff1d1656ddef.png)
-
-We can see a slight relation between these two variables, but it's not linear.
-
-
 ### Body mass according to sex
 
-![image](https://user-images.githubusercontent.com/82065199/172255589-9dd6d86c-a165-49ca-9ced-a17dad182659.png)
+![sex-dist](https://user-images.githubusercontent.com/82065199/175836619-6a4c7975-6d41-4442-a1a1-bf28caa76dbc.png)
 
 Description for male ones:
 ![Captura de tela de 2022-06-06 18-54-16](https://user-images.githubusercontent.com/82065199/172255713-91542ea4-8259-402e-bdfa-69fc88b9d54d.png)
@@ -53,13 +46,12 @@ One can understand that there is a considerable difference between female and ma
 
 ### Flipper length by sex
 
-![image](https://user-images.githubusercontent.com/82065199/172256071-4dd4b940-ee89-408b-9352-52a9af2302c8.png)
+![flipper-dist](https://user-images.githubusercontent.com/82065199/175836638-f9a03d24-edc9-4b22-8891-3d1e2670bc42.png)
 
 Another characteristic is that the flipper length is usually bigger for male, no matter the specie.
 
 ### Body mass per specie
 
-
-![image](https://user-images.githubusercontent.com/82065199/172256255-67df0c0a-32ae-48f4-8222-452efe751da1.png)
+![mass-dist](https://user-images.githubusercontent.com/82065199/175836674-a8ca9b95-1ee9-4a19-a0a4-1daa3ff274e2.png)
 
 Adelie and Chinstrap have almost similar distribution of body mass. On the other hand, Gentoo specie are usually heavier than the others.
